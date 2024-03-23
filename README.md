@@ -18,7 +18,6 @@ If you use the data in your research, please consider citing
 ```bash
 @inproceedings{raoAutomaticAssessmentCommunication2017,
 	address = {New York, NY, USA},
-	series = {{ICMI} '17},
 	title = {Automatic assessment of communication skill in non-conventional interview settings: a comparative study},
 	isbn = {978-1-4503-5543-8},
 	url = {https://doi.org/10.1145/3136755.3136756},
